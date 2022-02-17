@@ -1,0 +1,67 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+.jumbotron{
+    margin:15px 40px 0px 40px;
+    border-radius:10px;
+    background-color: rgb(241, 161, 201);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:white !important;
+    height:200px;
+}
+
+footer {
+    padding: 2em;
+    background-color: #e2ebf5;
+    display: flex;
+    flex-direction: row;
+}
+
+.row {
+    justify-content: space-between;
+    margin:15px 40px 0px 40px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.cards {
+    background-color: #f8eef1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
